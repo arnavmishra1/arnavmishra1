@@ -1,4 +1,4 @@
-Hello, I'm arnubian!
+Hello, I'm Arnav!
 
 This page will have some of my assignments from college and personal projects
 
