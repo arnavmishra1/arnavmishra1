@@ -1,6 +1,6 @@
-hallo welt
+Hello, I'm arnubian!
 
-i'm still learning git/github, but i'm kinda getting the hang of things now =)
+This page will have some of my assignments from college and personal projects
 
 <!--
 **arnubian/arnubian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
